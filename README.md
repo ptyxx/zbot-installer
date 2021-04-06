@@ -1,2 +1,2 @@
 # zbot-installer
-pretty bad, but works (installer for zbot)
+unoptimized version of the installer for zbot
